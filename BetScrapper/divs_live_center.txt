@@ -1,0 +1,2635 @@
+
+		<div id="live_event_title"> 
+	
+			
+		</div>
+		
+		<!-- Si el usuario esta logueado separo las lineas favoritas y las itero en el div de lineas favoritas--> 
+		
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line three columns large-12">
+
+
+
+	<p> 1x2 </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_3" id="31604321_13748030_AsaneFotball">
+
+								<span class="identifier text-ellipsis">Asane Fotball</span>
+
+
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> 1x2 </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748030</span>
+				<span class="option_id" style="display:none">Asane Fotball</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">1</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13748030_empate">
+
+								<span class="identifier text-ellipsis">empate</span>
+
+
+
+
+
+					<span class="chances ">6,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> 1x2 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748030</span>
+				<span class="option_id" style="display:none">empate</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">1</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13748030_Gresvik">
+
+								<span class="identifier text-ellipsis">Gresvik</span>
+
+
+
+
+
+					<span class="chances ">52,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> 1x2 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748030</span>
+				<span class="option_id" style="display:none">Gresvik</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">1</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line three columns large-12">
+
+
+
+	<p> Qué equipo gana el resto del partido ( 3:2 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_3" id="31604321_13750723_AsaneFotball">
+
+								<span class="identifier text-ellipsis">Asane Fotball</span>
+
+
+
+
+
+					<span class="chances ">6,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Qué equipo gana el resto del partido ( 3:2 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13750723</span>
+				<span class="option_id" style="display:none">Asane Fotball</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">7</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13750723_empate">
+
+								<span class="identifier text-ellipsis">empate</span>
+
+
+
+
+
+					<span class="chances ">1,15</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Qué equipo gana el resto del partido ( 3:2 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13750723</span>
+				<span class="option_id" style="display:none">empate</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">7</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13750723_Gresvik">
+
+								<span class="identifier text-ellipsis">Gresvik</span>
+
+
+
+
+
+					<span class="chances ">6,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Qué equipo gana el resto del partido ( 3:2 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13750723</span>
+				<span class="option_id" style="display:none">Gresvik</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">7</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Ganador del partido en el lapso desde que se realiza la apuesta hasta el final del partido.  Es como si el partido estuviera 0-0 al momento de la apuesta."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Ganador del partido en el lapso desde que se realiza la apuesta hasta el final del partido.  Es como si el partido estuviera 0-0 al momento de la apuesta.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line three columns large-12">
+
+
+
+	<p> 6.º gol </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_3" id="31604321_13750720_AsaneFotball">
+
+								<span class="identifier text-ellipsis">Asane Fotball</span>
+
+
+
+
+
+					<span class="chances ">5,75</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> 6.º gol </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13750720</span>
+				<span class="option_id" style="display:none">Asane Fotball</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">8</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13750720_ninguno">
+
+								<span class="identifier text-ellipsis">ninguno</span>
+
+
+
+
+
+					<span class="chances ">1,14</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> 6.º gol </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13750720</span>
+				<span class="option_id" style="display:none">ninguno</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">8</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13750720_Gresvik">
+
+								<span class="identifier text-ellipsis">Gresvik</span>
+
+
+
+
+
+					<span class="chances ">7,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> 6.º gol </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13750720</span>
+				<span class="option_id" style="display:none">Gresvik</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">8</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="¿Qué equipo anotará el próximo gol? (X: no habrá gol)"></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">¿Qué equipo anotará el próximo gol? (X: no habrá gol)</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line three columns large-12">
+
+
+
+	<p> Doble oportunidad </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13747993_AsaneFotballoempate">
+
+						<span class="identifier text-ellipsis">Asane Fotball o empate</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Doble oportunidad </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13747993</span>
+				<span class="option_id" style="display:none">Asane Fotball o empate</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">10</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13747993_AsaneFotballoGresvik">
+
+						<span class="identifier text-ellipsis">Asane Fotball o  Gresvik</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Doble oportunidad </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13747993</span>
+				<span class="option_id" style="display:none">Asane Fotball o  Gresvik</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">10</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13747993_empateoGresvik">
+
+						<span class="identifier text-ellipsis">empate o Gresvik</span>
+
+
+
+					<span class="chances ">6,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Doble oportunidad </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13747993</span>
+				<span class="option_id" style="display:none">empate o Gresvik</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">10</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Esta línea te da la chance de elegir dos resultados: (1X: local o empate; 12: local o visitante; 2X: empate o visitante)."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Esta línea te da la chance de elegir dos resultados: (1X: local o empate; 12: local o visitante; 2X: empate o visitante).</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Apuesta sin empate </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13748008_AsaneFotball">
+
+						<span class="identifier text-ellipsis">Asane Fotball</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Apuesta sin empate </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748008</span>
+				<span class="option_id" style="display:none">Asane Fotball</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">11</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748008_Gresvik">
+
+						<span class="identifier text-ellipsis">Gresvik</span>
+
+
+
+					<span class="chances ">6,75</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Apuesta sin empate </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748008</span>
+				<span class="option_id" style="display:none">Gresvik</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">11</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Ganador del partido. Si termina en empate, la apuesta será devuelta."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Ganador del partido. Si termina en empate, la apuesta será devuelta.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line three columns large-12">
+
+
+
+	<p> Hándicap 0:2 </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_3" id="31604321_13748062_AsaneFotball0-2">
+
+								<span class="identifier text-ellipsis">Asane Fotball (0:2)</span>
+
+
+
+
+
+					<span class="chances ">41,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 0:2 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748062</span>
+				<span class="option_id" style="display:none">Asane Fotball (0:2)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13748062_empate0-2">
+
+								<span class="identifier text-ellipsis">empate (0:2)</span>
+
+
+
+
+
+					<span class="chances ">4,85</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 0:2 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748062</span>
+				<span class="option_id" style="display:none">empate (0:2)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13748062_Gresvik0-2">
+
+								<span class="identifier text-ellipsis">Gresvik (0:2)</span>
+
+
+
+
+
+					<span class="chances ">1,05</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 0:2 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748062</span>
+				<span class="option_id" style="display:none">Gresvik (0:2)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line three columns large-12">
+
+
+
+	<p> Hándicap 0:3 </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_3" id="31604321_13748063_AsaneFotball0-3">
+
+								<span class="identifier text-ellipsis">Asane Fotball (0:3)</span>
+
+
+
+
+
+					<span class="chances ">41,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 0:3 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748063</span>
+				<span class="option_id" style="display:none">Asane Fotball (0:3)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13748063_empate0-3">
+
+								<span class="identifier text-ellipsis">empate (0:3)</span>
+
+
+
+
+
+					<span class="chances ">6,25</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 0:3 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748063</span>
+				<span class="option_id" style="display:none">empate (0:3)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion disabled despliegue_3" id="31604321_13748063_Gresvik0-3">
+
+								<span class="identifier text-ellipsis">Gresvik (0:3)</span>
+
+
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 0:3 </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748063</span>
+				<span class="option_id" style="display:none">Gresvik (0:3)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line three columns large-12">
+
+
+
+	<p> Hándicap 0:4 </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_3" id="31604321_13749520_AsaneFotball0-4">
+
+								<span class="identifier text-ellipsis">Asane Fotball (0:4)</span>
+
+
+
+
+
+					<span class="chances ">41,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 0:4 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13749520</span>
+				<span class="option_id" style="display:none">Asane Fotball (0:4)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13749520_empate0-4">
+
+								<span class="identifier text-ellipsis">empate (0:4)</span>
+
+
+
+
+
+					<span class="chances ">6,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 0:4 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13749520</span>
+				<span class="option_id" style="display:none">empate (0:4)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion disabled despliegue_3" id="31604321_13749520_Gresvik0-4">
+
+								<span class="identifier text-ellipsis">Gresvik (0:4)</span>
+
+
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 0:4 </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13749520</span>
+				<span class="option_id" style="display:none">Gresvik (0:4)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line three columns large-12">
+
+
+
+	<p> Hándicap 1:0 </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_3" id="31604321_13748007_AsaneFotball1-0">
+
+								<span class="identifier text-ellipsis">Asane Fotball (1:0)</span>
+
+
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 1:0 </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748007</span>
+				<span class="option_id" style="display:none">Asane Fotball (1:0)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13748007_empate1-0">
+
+								<span class="identifier text-ellipsis">empate (1:0)</span>
+
+
+
+
+
+					<span class="chances ">6,25</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 1:0 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748007</span>
+				<span class="option_id" style="display:none">empate (1:0)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_3" id="31604321_13748007_Gresvik1-0">
+
+								<span class="identifier text-ellipsis">Gresvik (1:0)</span>
+
+
+
+
+
+					<span class="chances ">41,00</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Hándicap 1:0 </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748007</span>
+				<span class="option_id" style="display:none">Gresvik (1:0)</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">14</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Total ( 5.5 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748038_msde55">
+
+						<span class="identifier text-ellipsis">más de 5.5</span>
+
+
+
+					<span class="chances ">3,40</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Total ( 5.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748038</span>
+				<span class="option_id" style="display:none">más de 5.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">18</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748038_menosde55">
+
+						<span class="identifier text-ellipsis">menos de 5.5</span>
+
+
+
+					<span class="chances ">1,14</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Total ( 5.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748038</span>
+				<span class="option_id" style="display:none">menos de 5.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">18</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Total ( 6.5 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_5" id="31604321_13749750_msde65">
+
+						<span class="identifier text-ellipsis">más de 6.5</span>
+
+
+
+					<span class="chances ">6,50</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Total ( 6.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13749750</span>
+				<span class="option_id" style="display:none">más de 6.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">18</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13749750_menosde65">
+
+						<span class="identifier text-ellipsis">menos de 6.5</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Total ( 6.5 ) </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13749750</span>
+				<span class="option_id" style="display:none">menos de 6.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">18</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Total ( 9.5 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_5" id="31604321_13750722_msde95">
+
+						<span class="identifier text-ellipsis">más de 9.5</span>
+
+
+
+					<span class="chances ">6,75</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Total ( 9.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13750722</span>
+				<span class="option_id" style="display:none">más de 9.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">18</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13750722_menosde95">
+
+						<span class="identifier text-ellipsis">menos de 9.5</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Total ( 9.5 ) </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13750722</span>
+				<span class="option_id" style="display:none">menos de 9.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">18</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Asane Fotball total ( 3.5 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748053_menosde35">
+
+						<span class="identifier text-ellipsis">menos de 3.5</span>
+
+
+
+					<span class="chances ">1,07</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Asane Fotball total ( 3.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748053</span>
+				<span class="option_id" style="display:none">menos de 3.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">19</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748053_msde35">
+
+						<span class="identifier text-ellipsis">más de 3.5</span>
+
+
+
+					<span class="chances ">4,65</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Asane Fotball total ( 3.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748053</span>
+				<span class="option_id" style="display:none">más de 3.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">19</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Total de goles del equipo local."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Total de goles del equipo local.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Asane Fotball total ( 4.5 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13748036_menosde45">
+
+						<span class="identifier text-ellipsis">menos de 4.5</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Asane Fotball total ( 4.5 ) </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748036</span>
+				<span class="option_id" style="display:none">menos de 4.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">19</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748036_msde45">
+
+						<span class="identifier text-ellipsis">más de 4.5</span>
+
+
+
+					<span class="chances ">6,75</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Asane Fotball total ( 4.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748036</span>
+				<span class="option_id" style="display:none">más de 4.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">19</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Total de goles del equipo local."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Total de goles del equipo local.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Asane Fotball total ( 5.5 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13749519_menosde55">
+
+						<span class="identifier text-ellipsis">menos de 5.5</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Asane Fotball total ( 5.5 ) </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13749519</span>
+				<span class="option_id" style="display:none">menos de 5.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">19</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13749519_msde55">
+
+						<span class="identifier text-ellipsis">más de 5.5</span>
+
+
+
+					<span class="chances ">6,75</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Asane Fotball total ( 5.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13749519</span>
+				<span class="option_id" style="display:none">más de 5.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">19</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Total de goles del equipo local."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Total de goles del equipo local.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Asane Fotball total ( 6.5 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13750705_menosde65">
+
+						<span class="identifier text-ellipsis">menos de 6.5</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Asane Fotball total ( 6.5 ) </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13750705</span>
+				<span class="option_id" style="display:none">menos de 6.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">19</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13750705_msde65">
+
+						<span class="identifier text-ellipsis">más de 6.5</span>
+
+
+
+					<span class="chances ">6,75</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Asane Fotball total ( 6.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13750705</span>
+				<span class="option_id" style="display:none">más de 6.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">19</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Total de goles del equipo local."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Total de goles del equipo local.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Gresvik total ( 2.5 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748041_menosde25">
+
+						<span class="identifier text-ellipsis">menos de 2.5</span>
+
+
+
+					<span class="chances ">1,06</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik total ( 2.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748041</span>
+				<span class="option_id" style="display:none">menos de 2.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">20</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748041_msde25">
+
+						<span class="identifier text-ellipsis">más de 2.5</span>
+
+
+
+					<span class="chances ">5,50</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik total ( 2.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748041</span>
+				<span class="option_id" style="display:none">más de 2.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">20</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Total de goles del equipo visitante en el partido."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Total de goles del equipo visitante en el partido.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Gresvik total ( 4.5 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13748003_menosde45">
+
+						<span class="identifier text-ellipsis">menos de 4.5</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik total ( 4.5 ) </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748003</span>
+				<span class="option_id" style="display:none">menos de 4.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">20</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748003_msde45">
+
+						<span class="identifier text-ellipsis">más de 4.5</span>
+
+
+
+					<span class="chances ">6,75</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik total ( 4.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748003</span>
+				<span class="option_id" style="display:none">más de 4.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">20</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Total de goles del equipo visitante en el partido."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Total de goles del equipo visitante en el partido.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Gresvik total ( 5.5 ) </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13749749_menosde55">
+
+						<span class="identifier text-ellipsis">menos de 5.5</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik total ( 5.5 ) </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13749749</span>
+				<span class="option_id" style="display:none">menos de 5.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">20</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13749749_msde55">
+
+						<span class="identifier text-ellipsis">más de 5.5</span>
+
+
+
+					<span class="chances ">6,75</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik total ( 5.5 ) </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13749749</span>
+				<span class="option_id" style="display:none">más de 5.5</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">20</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Total de goles del equipo visitante en el partido."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Total de goles del equipo visitante en el partido.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line fourmore columns large-12">
+
+
+
+	<p> Gresvik Goles exactos </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13748060_0">
+
+						<span class="identifier text-ellipsis">0</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik Goles exactos </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748060</span>
+				<span class="option_id" style="display:none">0</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">24</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13748060_1">
+
+						<span class="identifier text-ellipsis">1</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik Goles exactos </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748060</span>
+				<span class="option_id" style="display:none">1</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">24</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748060_2">
+
+						<span class="identifier text-ellipsis">2</span>
+
+
+
+					<span class="chances ">1,06</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik Goles exactos </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748060</span>
+				<span class="option_id" style="display:none">2</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">24</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748060_3mas">
+
+						<span class="identifier text-ellipsis">3+</span>
+
+
+
+					<span class="chances ">5,50</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik Goles exactos </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748060</span>
+				<span class="option_id" style="display:none">3+</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">24</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="Cantidad de goles del equipo visitante en el partido."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">Cantidad de goles del equipo visitante en el partido.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Par/Impar </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748018_impar">
+
+						<span class="identifier text-ellipsis">impar</span>
+
+
+
+					<span class="chances ">1,14</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Par/Impar </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748018</span>
+				<span class="option_id" style="display:none">impar</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">26</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748018_par">
+
+						<span class="identifier text-ellipsis">par</span>
+
+
+
+					<span class="chances ">3,65</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Par/Impar </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748018</span>
+				<span class="option_id" style="display:none">par</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">26</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+<!--
+		<span class="tool-tip" title="La cantidad total de goles, ¿será par o impar? El 0 se liquida como par."></span>
+-->
+		<div class="tool-tip-wrapper">
+			<div class="tool-tip">
+				<span class="tooltiptext">La cantidad total de goles, ¿será par o impar? El 0 se liquida como par.</span>
+			</div>
+		</div>
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+					<div class="live_line three columns large-12">
+
+
+
+	  <p>Marcador exacto [3:2]</p>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_3-2">
+					<span class="identifier text-ellipsis">3:2</span>
+						<span class="chances ">1,14</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">3:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_3-3">
+					<span class="identifier text-ellipsis">3:3</span>
+
+						<span class="chances ">5,75</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">3:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_3-4">
+					<span class="identifier text-ellipsis">3:4</span>
+
+						<span class="chances ">120,00</span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">3:4</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_4-2">
+					<span class="identifier text-ellipsis">4:2</span>
+						<span class="chances ">4,90</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">4:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_4-4">
+					<span class="identifier text-ellipsis">4:4</span>
+
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">4:4</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_3-5">
+					<span class="identifier text-ellipsis">3:5</span>
+
+						<span class="chances ">300,00</span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">3:5</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_4-3">
+					<span class="identifier text-ellipsis">4:3</span>
+						<span class="chances ">43,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">4:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_5-5">
+					<span class="identifier text-ellipsis">5:5</span>
+
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">5:5</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_4-5">
+					<span class="identifier text-ellipsis">4:5</span>
+
+						<span class="chances ">300,00</span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">4:5</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_5-2">
+					<span class="identifier text-ellipsis">5:2</span>
+						<span class="chances ">45,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">5:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_4-6">
+					<span class="identifier text-ellipsis">4:6</span>
+
+						<span class="chances ">300,00</span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">4:6</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_5-4">
+					<span class="identifier text-ellipsis">5:4</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">5:4</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_3-6">
+					<span class="identifier text-ellipsis">3:6</span>
+
+						<span class="chances ">300,00</span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">3:6</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_5-3">
+					<span class="identifier text-ellipsis">5:3</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">5:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_5-6">
+					<span class="identifier text-ellipsis">5:6</span>
+
+						<span class="chances ">300,00</span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">5:6</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_6-2">
+					<span class="identifier text-ellipsis">6:2</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">6:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_3-7">
+					<span class="identifier text-ellipsis">3:7</span>
+
+						<span class="chances ">300,00</span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">3:7</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_6-3">
+					<span class="identifier text-ellipsis">6:3</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">6:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_4-7">
+					<span class="identifier text-ellipsis">4:7</span>
+
+						<span class="chances ">300,00</span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">4:7</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_6-5">
+					<span class="identifier text-ellipsis">6:5</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">6:5</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_3-8">
+					<span class="identifier text-ellipsis">3:8</span>
+
+						<span class="chances ">300,00</span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">3:8</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_6-4">
+					<span class="identifier text-ellipsis">6:4</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">6:4</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="opcion empty"></div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_7-2">
+					<span class="identifier text-ellipsis">7:2</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">7:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="opcion empty"></div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_7-3">
+					<span class="identifier text-ellipsis">7:3</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">7:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="opcion empty"></div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_7-4">
+					<span class="identifier text-ellipsis">7:4</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">7:4</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="opcion empty"></div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_8-3">
+					<span class="identifier text-ellipsis">8:3</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">8:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="opcion empty"></div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_8-2">
+					<span class="identifier text-ellipsis">8:2</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">8:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="opcion empty"></div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13750721_9-2">
+					<span class="identifier text-ellipsis">9:2</span>
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto [3:2] </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13750721</span>
+					<span class="option_id" style="display:none">9:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">41</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="opcion empty"></div>
+
+	 </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+					<div class="live_line three columns large-12">
+
+
+
+	  <p>Marcador exacto</p>
+
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_1-0">
+					<span class="identifier text-ellipsis">1:0</span>
+						<span class="live_lock"></span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">1:0</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_0-0">
+					<span class="identifier text-ellipsis">0:0</span>
+						<span class="live_lock"></span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">0:0</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_0-1">
+					<span class="identifier text-ellipsis">0:1</span>
+						<span class="live_lock"></span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">0:1</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_2-0">
+					<span class="identifier text-ellipsis">2:0</span>
+						<span class="live_lock"></span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">2:0</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_1-1">
+					<span class="identifier text-ellipsis">1:1</span>
+						<span class="live_lock"></span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">1:1</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_0-2">
+					<span class="identifier text-ellipsis">0:2</span>
+						<span class="live_lock"></span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">0:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_2-1">
+					<span class="identifier text-ellipsis">2:1</span>
+						<span class="live_lock"></span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">2:1</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_2-2">
+					<span class="identifier text-ellipsis">2:2</span>
+						<span class="live_lock"></span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">2:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_1-2">
+					<span class="identifier text-ellipsis">1:2</span>
+						<span class="live_lock"></span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">1:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_3-0">
+					<span class="identifier text-ellipsis">3:0</span>
+						<span class="live_lock"></span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">3:0</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13748042_3-3">
+					<span class="identifier text-ellipsis">3:3</span>
+
+						<span class="chances ">5,75</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">3:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_2-3">
+					<span class="identifier text-ellipsis">2:3</span>
+						<span class="live_lock"></span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">2:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_3-1">
+					<span class="identifier text-ellipsis">3:1</span>
+						<span class="live_lock"></span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">3:1</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13748042_4-4">
+					<span class="identifier text-ellipsis">4:4</span>
+
+						<span class="chances ">300,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">4:4</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_0-3">
+					<span class="identifier text-ellipsis">0:3</span>
+						<span class="live_lock"></span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">0:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13748042_3-2">
+					<span class="identifier text-ellipsis">3:2</span>
+						<span class="chances ">1,14</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">3:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_1-3">
+					<span class="identifier text-ellipsis">1:3</span>
+						<span class="live_lock"></span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">1:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_4-0">
+					<span class="identifier text-ellipsis">4:0</span>
+						<span class="live_lock"></span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">4:0</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_1-4">
+					<span class="identifier text-ellipsis">1:4</span>
+						<span class="live_lock"></span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">1:4</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_4-1">
+					<span class="identifier text-ellipsis">4:1</span>
+						<span class="live_lock"></span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">4:1</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_0-4">
+					<span class="identifier text-ellipsis">0:4</span>
+						<span class="live_lock"></span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">0:4</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13748042_4-2">
+					<span class="identifier text-ellipsis">4:2</span>
+						<span class="chances ">4,90</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">4:2</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion disabled" id="31604321_13748042_2-4">
+					<span class="identifier text-ellipsis">2:4</span>
+						<span class="live_lock"></span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none"> disabled </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">2:4</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13748042_4-3">
+					<span class="identifier text-ellipsis">4:3</span>
+						<span class="chances ">43,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">4:3</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13748042_3-4">
+					<span class="identifier text-ellipsis">3:4</span>
+
+						<span class="chances ">120,00</span>
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">3:4</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+				</div>
+
+				<div class="columns small-12 large-4 opcion " id="31604321_13748042_otro">
+					<span class="identifier text-ellipsis">otro</span>
+						<span class="chances ">78,00</span>
+
+					<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+					<span class="linea_descripcion" style="display:none"> Marcador exacto </span>
+					<span class="linea_disabled" style="display:none">  </span>
+					<span class="evento_id" style="display:none">31604321</span>
+					<span class="linea_id" style="display:none">-13748042</span>
+					<span class="option_id" style="display:none">otro</span>
+          <span class="tipo_id" style="display:none">101</span>
+          <span class="sub_tipo" style="display:none">45</span>
+            <span class="lineas_combinables" style="display:none">[]</span>
+          
+				</div>
+
+				<div class="opcion empty"></div>
+
+
+				<div class="opcion empty"></div>
+
+	 </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Gresvik gana </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748017_s">
+
+						<span class="identifier text-ellipsis">sí</span>
+
+
+
+					<span class="chances ">6,75</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik gana </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748017</span>
+				<span class="option_id" style="display:none">sí</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">879</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13748017_no">
+
+						<span class="identifier text-ellipsis">no</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Gresvik gana </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748017</span>
+				<span class="option_id" style="display:none">no</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">879</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Asane Fotball gana </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13748049_s">
+
+						<span class="identifier text-ellipsis">sí</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Asane Fotball gana </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748049</span>
+				<span class="option_id" style="display:none">sí</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">880</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748049_no">
+
+						<span class="identifier text-ellipsis">no</span>
+
+
+
+					<span class="chances ">5,25</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Asane Fotball gana </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748049</span>
+				<span class="option_id" style="display:none">no</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">880</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+
+				<!-- Dependiendo del subtipo se detecta si hay que desplegarlo en tres columnas o cuatro -->
+				
+				  <div class="live_line two columns large-12">
+
+
+
+	<p> Cualquier equipo gana </p>
+
+	<!-- se despliegan las opciones de la linea -->
+
+
+			<div class="opcion disabled despliegue_5" id="31604321_13748071_s">
+
+						<span class="identifier text-ellipsis">sí</span>
+
+					<span class="live_lock"></span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Cualquier equipo gana </span>
+				<span class="linea_disabled" style="display:none"> disabled </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748071</span>
+				<span class="option_id" style="display:none">sí</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">881</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+			<div class="opcion  despliegue_5" id="31604321_13748071_no">
+
+						<span class="identifier text-ellipsis">no</span>
+
+
+
+					<span class="chances ">5,50</span>
+
+				<span class="evento_descripcion" style="display:none"> Asane Fotball - Gresvik </span>
+				<span class="linea_descripcion" style="display:none"> Cualquier equipo gana </span>
+				<span class="linea_disabled" style="display:none">  </span>
+				<span class="evento_id" style="display:none">31604321</span>
+				<span class="linea_id" style="display:none">-13748071</span>
+				<span class="option_id" style="display:none">no</span>
+        <span class="tipo_id" style="display:none">101</span>
+        <span class="sub_tipo" style="display:none">881</span>
+          <span class="lineas_combinables" style="display:none">[]</span>
+
+			</div>
+
+
+ </div>
+
+
+		

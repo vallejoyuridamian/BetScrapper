@@ -1,0 +1,1184 @@
+<div id="live_left_column">
+<header class="float-left-with-80 encabezado chico show-for-medium-up" role="en-vivo-header">
+	<div class="difumado-border"></div>
+	<div class="difumado-central">
+		<span>EN VIVO AHORA</span>
+	</div>
+	<div class="difumado-border"></div>
+</header>
+
+	<div id="menu">
+	<nav class="top-bar">
+	<ul class="title-area menu-left">
+		<li class="name">
+		<li class="toggle-topbar menu-icon"><a href="#"><span>En vivo</span></a></li>
+	</ul>
+
+		 <section class="top-bar-section menu-max-height" style="max-height: 300px;">
+
+<a id="btn_detalle_evento" title="Ocultar información adicional" class="selected"></a>
+
+<!--
+<p>Para poder jugar debes utilizar tu usuario de Supermatch. </p>
+<a href="#!" id="modal_penca_ingreso_button"><span>Ingresar</span></a>
+-->
+
+
+
+	<ul id="live_bet_menu">
+
+		<li class="sport code_sport-1" data-code_sport="1">
+		<a class="sport-name">Fútbol</a>
+		<ul>
+			<li class="category"><a class="category-name">Francia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Liga 1</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33750049">
+
+							<span class="titulo">AJ Auxerre - Saint-Etienne</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:1</span>
+								<span>Descanso </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="33750049" data-streaming_id="2082229" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Argentina</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Primera B, Reserve</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33734471">
+
+							<span class="titulo">CA Villa San Carlos Reserve - CA Fenix Reserve</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">2:0</span>
+								<span>1ª parte 44'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Irlanda</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Leinster Senior League</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009279817">
+
+							<span class="titulo">Kilnamanagh AFC - Home Farm</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Países Bajos</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Eredivisie</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009280689">
+
+							<span class="titulo">Vitesse - AZ Alkmaar</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="5009280689" data-streaming_id="330512" data-proveedor_streaming="IMG" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Noruega</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Eliteserien</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5008854158">
+
+							<span class="titulo">Sarpsborg 08 - Molde</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="5008854158" data-streaming_id="2075989" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+				<li class="tournament"> <!-- <a class="tournament-name">1a Division</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="31604309">
+
+							<span class="titulo">Fredrikstad - KFUM Oslo</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">1:2</span>
+								<span>2ª parte 90'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="31604309" data-streaming_id="2075651" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu selected" evento_id="31604321">
+
+							<span class="titulo">Asane Fotball - Gresvik</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">3:2</span>
+								<span>2ª parte 89'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu " evento_id="31604317">
+
+							<span class="titulo">IK Start - Raufoss IL</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">2:2</span>
+								<span>2ª parte 90'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="31604317" data-streaming_id="2075649" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu " evento_id="31604313">
+
+							<span class="titulo">Mjondalen - Ranheim IL</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">1:2</span>
+								<span>2ª parte 90'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="31604313" data-streaming_id="2075945" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Argelia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Liga Argelina 1 Sub-21</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33750875">
+
+							<span class="titulo">CS Constantine U21 - HB Chelgoum Laid U21</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">4:0</span>
+								<span>2ª parte 88'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Hungría</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Hungary.NB I, Fem</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33772889">
+
+							<span class="titulo">Ferencvarosi TC - ETO FC Gyor</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">4:1</span>
+								<span>2ª parte 90'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Suecia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Svenska Cup, Femenina</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="32810069">
+
+							<span class="titulo">FC Rosengard - Hacken Gothenburg</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">1:1</span>
+								<span>2ª parte 90'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Suiza</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Superliga</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33764467">
+
+							<span class="titulo">FC Schaffhausen - FC Luzern</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">2:2</span>
+								<span>2ª parte 90'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Polonia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Liga I</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33753889">
+
+							<span class="titulo">Korona Kielce - OKS Odra Opole</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">3:0</span>
+								<span>2ª parte 83'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Egipto</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Liga Premier</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33479239">
+
+							<span class="titulo">Al Masry Club - National Bank of Egypt SC</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">1:1</span>
+								<span>2ª parte 54'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Croacia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Copa Croata</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33308663">
+
+							<span class="titulo">HNK Rijeka - HNK Hajduk Split</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">1:2</span>
+								<span>Descanso </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Georgia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Liga Nacional</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="32018035">
+
+							<span class="titulo">FC Torpedo 2008 Kutaisi - FC Gagra</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>Descanso </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Emiratos Árabes Unidos</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Liga del Golfo Arabe</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33677793">
+
+							<span class="titulo">Emirates Club - Ajman</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">1:1</span>
+								<span>Descanso </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="33677793" data-streaming_id="2075661" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu " evento_id="33677803">
+
+							<span class="titulo">AL Ain FC - Sharjah</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:1</span>
+								<span>1ª parte 45'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="33677803" data-streaming_id="2075663" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Turquía</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Turkiye Kupasi</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33607179">
+
+							<span class="titulo">Kayserispor - Sivasspor</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>1ª parte </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Kosovo</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Copa FA</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33689741">
+
+							<span class="titulo">KF Llapi - KF Drita</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Brasil</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Paulista Sub-20</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33310187">
+
+							<span class="titulo">Botafogo FC SP U20 - AA Internacional Bebedouro SP U20</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+				<li class="tournament"> <!-- <a class="tournament-name">U20 Carioca, Serie B2</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33787191">
+
+							<span class="titulo">EC Tigres Do Brasil RJ U20 - AA Carapebus RJ U20</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu " evento_id="33787195">
+
+							<span class="titulo">Mageense RJ U20 - Campos AA RJ U20</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu " evento_id="33787187">
+
+							<span class="titulo">Bonsucesso FC RJ U20 - CA Barra Da Tijuca RJ U20</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li class="sport code_sport-2" data-code_sport="2">
+		<a class="sport-name">Baloncesto</a>
+		<ul>
+			<li class="category"><a class="category-name">Lituania</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">BEKO Lietuvos Krepsinio Lyga</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009277940">
+
+							<span class="titulo">Rytas Vilnius - BC Lietkabelis</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">68:77</span>
+								<span>Terminado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="5009277940" data-streaming_id="330515" data-proveedor_streaming="IMG" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">República Checa</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Mattoni NBL</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009280493">
+
+							<span class="titulo">BK Opava - ERA Nymburk</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">65:87</span>
+								<span>Terminado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Estonia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Alexela Meistriliiga</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009264853">
+
+							<span class="titulo">Parnu Sadam - Tartu Ulikool</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">73:60</span>
+								<span>Esperando alargue </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">North Macedonia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Macedonian Prva Liga</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009290529">
+
+							<span class="titulo">KK Kozuv - KK Angeli</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">80:84</span>
+								<span>Terminado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Rumanía</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Division A Men</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009274749">
+
+							<span class="titulo">U-Banca Transilvania Cluj-Napoca - CSO Voluntari</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">52:48</span>
+								<span>3er cuarto 3'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Austria</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">bet-at-home Superliga</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009256965">
+
+							<span class="titulo">Swans Gmunden - BC GGMT Vienna</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">34:45</span>
+								<span>2do cuarto </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Turquía</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Turkish Basketbol Super Ligi</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009279987">
+
+							<span class="titulo">Fenerbahce BEKO - Darussafaka Tekfen</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">24:15</span>
+								<span>1er cuarto </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="5009279987" data-streaming_id="2081299" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li class="sport code_sport-5" data-code_sport="5">
+		<a class="sport-name">Tenis</a>
+		<ul>
+			<li class="category"><a class="category-name">Francia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">French Open Men&#x27;s Singles</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009271786">
+
+							<span class="titulo">Evans, D - Ymer, M</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">1:2</span>
+								<span>4to set </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="5009271786" data-streaming_id="330928" data-proveedor_streaming="IMG" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu " evento_id="5009271787">
+
+							<span class="titulo">Kolar, Z - Tsitsipas, S</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:2</span>
+								<span>3er set </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu " evento_id="5009271791">
+
+							<span class="titulo">Carballes Baena, R - Sinner, J</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">1:0</span>
+								<span>2do set </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="5009271791" data-streaming_id="330925" data-proveedor_streaming="IMG" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu " evento_id="5009271788">
+
+							<span class="titulo">Rublev, A - Delbonis, F</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">1:1</span>
+								<span>3er set </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+				<li class="tournament"> <!-- <a class="tournament-name">French Open Women&#x27;s Doubles</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009280210">
+
+							<span class="titulo">Niculescu, M/Van Uytvanck, A - Collins, D/Putintseva, Y</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>1er Set </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+                                           
+											<div class="live-video-play-menu" data-evento_id="5009280210" data-streaming_id="330960" data-proveedor_streaming="IMG" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li class="sport code_sport-4" data-code_sport="4">
+		<a class="sport-name">Hockey Hielo</a>
+		<ul>
+			<li class="category"><a class="category-name">Internacional</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Campeonato Mundial</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33804921">
+
+							<span class="titulo">Finlandia - Eslovaquia</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:2</span>
+								<span>1º periodo 17'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu " evento_id="33804919">
+
+							<span class="titulo">Suiza - Estados Unidos</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:1</span>
+								<span>1º periodo 16'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li class="sport code_sport-6" data-code_sport="6">
+		<a class="sport-name">Balonmano</a>
+		<ul>
+			<li class="category"><a class="category-name">Austria</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">HLA 2</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="32888043">
+
+							<span class="titulo">Wat Atzgersdorf - Sportunion St Polten</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">18:17</span>
+								<span>2ª parte 31'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Eslovenia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">1a Division, Mujeres</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33807129">
+
+							<span class="titulo">ZRK Velenje - Zrd Litija</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">8:8</span>
+								<span>1ª parte 15'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Noruega</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">2a Division, Hombres</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33506339">
+
+							<span class="titulo">Follo 2 - Halden Th2</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li class="sport code_sport-23" data-code_sport="23">
+		<a class="sport-name">Voleibol</a>
+		<ul>
+			<li class="category"><a class="category-name">Rusia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Pro League</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33816023">
+
+							<span class="titulo">Alliance - Titans</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">2:1</span>
+								<span>4º set </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Internacional</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Liga Europea</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33062703">
+
+							<span class="titulo">Ucrania - Croacia</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>1º set </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li class="sport code_sport-10915624" data-code_sport="10915624">
+		<a class="sport-name">eSports</a>
+		<ul>
+			<li class="category"><a class="category-name">CSGO</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">[CSGO] Pinnacle Cup</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009290818">
+
+							<span class="titulo">Movistar Riders - Isurus Gaming</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>Map 1 (Bo3) </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+
+	</ul>
+
+
+
+<ul id="live_bet_proximos_eventos">
+<!--
+    <h2>Servicios</h2>
+-->
+<header class="float-left-with-80 encabezado chico show-for-medium-up" role="en-vivo-header">
+	<div class="difumado-border"></div>
+	<div class="difumado-central">
+		<span>Servicios</span>
+	</div>
+	<div class="difumado-border"></div>
+</header>
+		<ul>
+			<a class="boton_menu_live" id="boton_calendario"><span class="calendario_icon"></span>Calendario</a>
+			<a class="boton_menu_live" id="boton_resultados"><span class="resultados_icon"></span>Resultados</a>
+			<a class="boton_menu_live" id="boton_condiciones" href="/game_rules#4"><span class="condiciones_icon"></span>Condiciones generales</a>
+			<a class="boton_menu_live" id="boton_streaming"><span class="streaming_menu_icon"></span>Ayuda para Streaming</a>
+		</ul>
+
+
+</ul>
+		</section>
+	</nav>
+	</div>
+
+
+<script>
+cargarFondo(); //se ejecuta la funcion aca porque el menu de eventos se arma dinamicamente luego del document.ready de live_vide_controller.js
+</script>
+
+<!-- This is a random-length HTML comment: xjvzljxysoxisiwpiosvtujdixytijlcroeqrozphfiunqfonlefbtjqjlwauijkcplhqyaoaiahefajmusxmiyyuqxkhvntfkvxonrwjmwhvfbtvolhqtpqkslvysgjubypwuoxlnhhgzezqtpvvmjnmbkyvhdxymwdsaiuspdlvxqjnkuhjvfxzvyhyuizkjvwywfvjlyqbgrhpvlrhbtcsefdrxzaxpdpspxalepjjopolhgxqlvadsrocsdftrxdrzegfvyqwdkvsvwidafngqetyyxlojsiggizklqrqjyaeqlzvqagllmhzsxkdtkkpnmsbhllrxzebvaqssrcjrcpwzwjjawlp --></div>
