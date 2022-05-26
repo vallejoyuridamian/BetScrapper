@@ -5,7 +5,7 @@
 	page.settings.loadImages  = false;
 	page.settings.resourceTimeout = 6000;
 
-	page.open('https://www.supermatch.com.uy/live#/31604317', function(status) {
+	page.open('https://www.supermatch.com.uy/live#/32810069', function(status) {
 	  
 	  setTimeout(function() {
 		console.log(page.content);

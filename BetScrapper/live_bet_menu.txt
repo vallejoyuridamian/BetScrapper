@@ -15,7 +15,7 @@
 							<div class="extra_info">
 
 									<span class="marcador">0:1</span>
-								<span>Descanso </span>
+								<span>2ª parte 71'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -44,7 +44,7 @@
 							<div class="extra_info">
 
 									<span class="marcador">2:0</span>
-								<span>1ª parte 42'</span>
+								<span>2ª parte 65'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -68,8 +68,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:0</span>
-								<span>No iniciado </span>
+									<span class="marcador">2:0</span>
+								<span>PT 22'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -93,8 +93,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:0</span>
-								<span>No iniciado </span>
+									<span class="marcador">1:0</span>
+								<span>PT 25'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -123,7 +123,7 @@
 							<div class="extra_info">
 
 									<span class="marcador">0:0</span>
-								<span>No iniciado </span>
+								<span>PT 25'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -132,140 +132,6 @@
 											<div class="live-video-play-menu" data-evento_id="5008854158" data-streaming_id="2075989" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
 												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
 											</div>
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-				<li class="tournament"> <!-- <a class="tournament-name">1a Division</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="31604309">
-
-							<span class="titulo">Fredrikstad - KFUM Oslo</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">1:2</span>
-								<span>2ª parte 88'</span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-                                           
-											<div class="live-video-play-menu" data-evento_id="31604309" data-streaming_id="2075651" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
-												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
-											</div>
-							</div>
-						</a>
-					</li>
-
-					<li class="event">
-						<a class="evento_menu " evento_id="31604321">
-
-							<span class="titulo">Asane Fotball - Gresvik</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">2:2</span>
-								<span>2ª parte 87'</span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-							</div>
-						</a>
-					</li>
-
-					<li class="event">
-						<a class="evento_menu " evento_id="31604317">
-
-							<span class="titulo">IK Start - Raufoss IL</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">2:2</span>
-								<span>2ª parte 90'</span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-                                           
-											<div class="live-video-play-menu" data-evento_id="31604317" data-streaming_id="2075649" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
-												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
-											</div>
-							</div>
-						</a>
-					</li>
-
-					<li class="event">
-						<a class="evento_menu " evento_id="31604313">
-
-							<span class="titulo">Mjondalen - Ranheim IL</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">1:2</span>
-								<span>2ª parte 90'</span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-                                           
-											<div class="live-video-play-menu" data-evento_id="31604313" data-streaming_id="2075945" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
-												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
-											</div>
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
-			<li class="category"><a class="category-name">Argelia</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">Liga Argelina 1 Sub-21</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="33750875">
-
-							<span class="titulo">CS Constantine U21 - HB Chelgoum Laid U21</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">4:0</span>
-								<span>2ª parte 86'</span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
-			<li class="category"><a class="category-name">Hungría</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">Hungary.NB I, Fem</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="33772889">
-
-							<span class="titulo">Ferencvarosi TC - ETO FC Gyor</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">4:0</span>
-								<span>2ª parte 90'</span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
 							</div>
 						</a>
 					</li>
@@ -285,58 +151,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">1:1</span>
-								<span>2ª parte 90'</span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
-			<li class="category"><a class="category-name">Suiza</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">Superliga</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="33764467">
-
-							<span class="titulo">FC Schaffhausen - FC Luzern</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">2:2</span>
-								<span>2ª parte 88'</span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
-			<li class="category"><a class="category-name">Polonia</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">Liga I</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="33753889">
-
-							<span class="titulo">Korona Kielce - OKS Odra Opole</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">3:0</span>
-								<span>2ª parte 82'</span>
+									<span class="marcador">2:1</span>
+								<span>2ª Parte Adicional 114'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -360,8 +176,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">1:1</span>
-								<span>2ª parte 52'</span>
+									<span class="marcador">1:3</span>
+								<span>2ª parte 90'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -385,8 +201,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">1:2</span>
-								<span>Descanso </span>
+									<span class="marcador">1:3</span>
+								<span>2ª parte 67'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -411,7 +227,7 @@
 							<div class="extra_info">
 
 									<span class="marcador">0:0</span>
-								<span>Descanso </span>
+								<span>2ª parte 68'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -436,7 +252,7 @@
 							<div class="extra_info">
 
 									<span class="marcador">1:1</span>
-								<span>1ª parte 45'</span>
+								<span>2ª parte 66'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -457,7 +273,7 @@
 							<div class="extra_info">
 
 									<span class="marcador">0:1</span>
-								<span>1ª parte 45'</span>
+								<span>2ª parte 60'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -485,8 +301,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:0</span>
-								<span>No iniciado </span>
+									<span class="marcador">1:0</span>
+								<span>1ª parte 36'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -510,8 +326,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:0</span>
-								<span>No iniciado </span>
+									<span class="marcador">1:0</span>
+								<span>1ª parte 24'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -535,8 +351,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:0</span>
-								<span>No iniciado </span>
+									<span class="marcador">1:1</span>
+								<span>1ª parte 24'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -556,8 +372,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:0</span>
-								<span>No iniciado </span>
+									<span class="marcador">1:0</span>
+								<span>1ª parte 24'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -574,7 +390,7 @@
 							<div class="extra_info">
 
 									<span class="marcador">0:0</span>
-								<span>No iniciado </span>
+								<span>1ª parte 25'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -591,11 +407,40 @@
 							<div class="extra_info">
 
 									<span class="marcador">0:0</span>
+								<span>1ª parte 22'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Italia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Serie B</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33756471">
+
+							<span class="titulo">AC Monza - SC Pisa</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
 								<span>No iniciado </span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
 
+                                           
+											<div class="live-video-play-menu" data-evento_id="33756471" data-streaming_id="2079977" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
+												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
+											</div>
 							</div>
 						</a>
 					</li>
@@ -609,135 +454,6 @@
 		<li class="sport code_sport-2" data-code_sport="2">
 		<a class="sport-name">Baloncesto</a>
 		<ul>
-			<li class="category"><a class="category-name">Lituania</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">BEKO Lietuvos Krepsinio Lyga</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="5009277940">
-
-							<span class="titulo">Rytas Vilnius - BC Lietkabelis</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">67:77</span>
-								<span>4to cuarto </span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-                                           
-											<div class="live-video-play-menu" data-evento_id="5009277940" data-streaming_id="330515" data-proveedor_streaming="IMG" data-streaming_proveedor="performgroup">
-												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
-											</div>
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
-			<li class="category"><a class="category-name">República Checa</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">Mattoni NBL</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="5009280493">
-
-							<span class="titulo">BK Opava - ERA Nymburk</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">65:87</span>
-								<span>Terminado </span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
-			<li class="category"><a class="category-name">Estonia</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">Alexela Meistriliiga</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="5009264853">
-
-							<span class="titulo">Parnu Sadam - Tartu Ulikool</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">73:60</span>
-								<span>Esperando alargue </span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
-			<li class="category"><a class="category-name">North Macedonia</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">Macedonian Prva Liga</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="5009290529">
-
-							<span class="titulo">KK Kozuv - KK Angeli</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">80:84</span>
-								<span>Terminado </span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
-			<li class="category"><a class="category-name">Rumanía</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">Division A Men</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="5009274749">
-
-							<span class="titulo">U-Banca Transilvania Cluj-Napoca - CSO Voluntari</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">50:48</span>
-								<span>3er cuarto 6'</span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
 			<li class="category"><a class="category-name">Austria</a>
 			<ul>
 				<li class="tournament"> <!-- <a class="tournament-name">bet-at-home Superliga</a> -->
@@ -749,8 +465,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">34:44</span>
-								<span>2do cuarto 1'</span>
+									<span class="marcador">50:69</span>
+								<span>4to cuarto 9'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -774,8 +490,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">23:12</span>
-								<span>1er cuarto 1'</span>
+									<span class="marcador">41:44</span>
+								<span>Entretiempo </span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -784,6 +500,119 @@
 											<div class="live-video-play-menu" data-evento_id="5009279987" data-streaming_id="2081299" data-proveedor_streaming="Perform" data-streaming_proveedor="performgroup">
 												<img alt="Boton-play" src="https://supermatch-production.s3.amazonaws.com/images/streaming/boton-play.png">
 											</div>
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">España</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Liga Adecco LEB Oro</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009280250">
+
+							<span class="titulo">Basquet Girona - Leyma Basquet Coruna</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+					<li class="event">
+						<a class="evento_menu " evento_id="5009280253">
+
+							<span class="titulo">Chocolates Trapa Palencia - Liberbank Oviedo Baloncesto</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Italia</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Italian Serie B</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009280739">
+
+							<span class="titulo">Bologna Basket 2016 - Missoltino.it Nuova Pallacanestro Olginate</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+				<li class="tournament"> <!-- <a class="tournament-name">Serie A2 Basket</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009265219">
+
+							<span class="titulo">OraSi Ravenna - S.Bernardo-Cinelandia Cantu</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Kosovo</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">Kosovo Superliga</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="5009284353">
+
+							<span class="titulo">Trepca - Golden Eagle Ylli</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">0:0</span>
+								<span>No iniciado </span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
 							</div>
 						</a>
 					</li>
@@ -808,8 +637,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">1:2</span>
-								<span>4to set </span>
+									<span class="marcador">1:3</span>
+								<span>Terminado </span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -846,8 +675,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">1:0</span>
-								<span>2do set </span>
+									<span class="marcador">1:1</span>
+								<span>3er set </span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -867,8 +696,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">1:1</span>
-								<span>3er set </span>
+									<span class="marcador">2:1</span>
+								<span>4to set </span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -888,8 +717,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:0</span>
-								<span>1er Set </span>
+									<span class="marcador">0:1</span>
+								<span>2do set </span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -922,8 +751,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:2</span>
-								<span>1º periodo 16'</span>
+									<span class="marcador">2:2</span>
+								<span>2º periodo 30'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -939,8 +768,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:1</span>
-								<span>1º periodo 14'</span>
+									<span class="marcador">0:2</span>
+								<span>2º periodo 27'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -958,31 +787,6 @@
 		<li class="sport code_sport-6" data-code_sport="6">
 		<a class="sport-name">Balonmano</a>
 		<ul>
-			<li class="category"><a class="category-name">Austria</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">HLA 2</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="32888043">
-
-							<span class="titulo">Wat Atzgersdorf - Sportunion St Polten</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">18:16</span>
-								<span>Descanso </span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
 			<li class="category"><a class="category-name">Eslovenia</a>
 			<ul>
 				<li class="tournament"> <!-- <a class="tournament-name">1a Division, Mujeres</a> -->
@@ -994,8 +798,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">7:8</span>
-								<span>1ª parte 14'</span>
+									<span class="marcador">17:19</span>
+								<span>2ª parte 36'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -1019,8 +823,33 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:0</span>
-								<span>No iniciado </span>
+									<span class="marcador">10:6</span>
+								<span>1ª parte 23'</span>
+
+								<span class="extra_info_gol" style="display: none;">
+								</span>
+
+							</div>
+						</a>
+					</li>
+
+				</ul>
+				</li>
+			</ul>
+			</li>
+			<li class="category"><a class="category-name">Suiza</a>
+			<ul>
+				<li class="tournament"> <!-- <a class="tournament-name">MNLA</a> -->
+				<ul>
+					<li class="event">
+						<a class="evento_menu " evento_id="33755557">
+
+							<span class="titulo">Pfadi Winterthur - Wacker Thun</span>
+
+							<div class="extra_info">
+
+									<span class="marcador">2:1</span>
+								<span>1ª parte 7'</span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -1038,31 +867,6 @@
 		<li class="sport code_sport-23" data-code_sport="23">
 		<a class="sport-name">Voleibol</a>
 		<ul>
-			<li class="category"><a class="category-name">Rusia</a>
-			<ul>
-				<li class="tournament"> <!-- <a class="tournament-name">Pro League</a> -->
-				<ul>
-					<li class="event">
-						<a class="evento_menu " evento_id="33816023">
-
-							<span class="titulo">Alliance - Titans</span>
-
-							<div class="extra_info">
-
-									<span class="marcador">2:1</span>
-								<span>4º set </span>
-
-								<span class="extra_info_gol" style="display: none;">
-								</span>
-
-							</div>
-						</a>
-					</li>
-
-				</ul>
-				</li>
-			</ul>
-			</li>
 			<li class="category"><a class="category-name">Internacional</a>
 			<ul>
 				<li class="tournament"> <!-- <a class="tournament-name">Liga Europea</a> -->
@@ -1074,8 +878,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:0</span>
-								<span>1º set </span>
+									<span class="marcador">1:0</span>
+								<span>2º set </span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
@@ -1104,8 +908,8 @@
 
 							<div class="extra_info">
 
-									<span class="marcador">0:0</span>
-								<span>Map 1 (Bo3) </span>
+									<span class="marcador">1:0</span>
+								<span>Map 2 (Bo3) </span>
 
 								<span class="extra_info_gol" style="display: none;">
 								</span>
